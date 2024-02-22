@@ -24,17 +24,14 @@ sidebar:
         - idiom: English
           level: Professional
 
-    interests:
+   interests:
       title: Interests
       info:
-        - item: Climbing
-          link:
+        - item: Reading
+          link: 
 
-        - item: Snowboarding
-          link:
-
-        - item: Cooking
-          link:
+        - item: Table Games
+          link: 
 
 career-profile:
     title: Career Profile
