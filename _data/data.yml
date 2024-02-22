@@ -22,16 +22,16 @@ sidebar:
       title: Languages
       info:
         - idiom: English
-            link: Professional
+           link: Professional
 
     interests:
       title: Interests
       info:
         - item: Reading
-          link:
+          link: Test
 
         - item: Table Games
-          link:
+          link: Test
 
 # career-profile:
 #     title: Career Profile
@@ -120,7 +120,7 @@ projects:
       Side projects I've done during summer months while in University.
     assignments:
       - title: Trailer Tracking Program
-        # link: "#hook"
+        link: "#hook"
         tagline: "A desktop program to track where trailers are and where they will be." 
 
       - title: Logbook Meal Counter
