@@ -124,7 +124,7 @@ projects:
         tagline: "A desktop program to track where trailers are and where they will be." 
 
       - title: Logbook Meal Counter
-        # link: "#"
+        link: "#"
         tagline: "A responsive website that calculates eligible meals for taxes"
 
 skills:
