@@ -78,7 +78,7 @@ experiences:
       - role: Dispatcher/Planner
         time: 2017 - 2020
         company: Ruby Truck Line Inc
-        details: 
+        details: |
             - Planned and managed loads for over 35 drivers
             - Worked as part of a five-person team to coordinate loads, which put the company as the number one carrier for some load brokers
             - Built a trailer tracking program for the office and the repair shop, which increased productivity by over 100%
