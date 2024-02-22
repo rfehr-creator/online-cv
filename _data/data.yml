@@ -48,6 +48,8 @@ education:
       - degree: B.S in Computer Science
         university: University of Manitoba
         time: 2019 - 2025
+        details: |
+            details
 
 
 experiences:
