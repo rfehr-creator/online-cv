@@ -22,7 +22,7 @@ sidebar:
       title: Languages
       info:
         - idiom: English
-           link: Professional
+           level: Professional
 
     interests:
       title: Interests
@@ -57,14 +57,12 @@ experiences:
         time: 2023 Summer
         company: THR
         details: |
-        dfdfdfdfd
             - Implemented a sorting system for sorting incoming pdf documents in Node.js
             - Worked on the frontend using Typescript and Semantic UI 
       - role: Dispatcher/Planner
         time: 2017 - 2020
         company: Ruby Truck Line Inc
         details: |
-            dkfjdkfjdkfdj
             - Planned and managed loads for over 35 drivers
             - Worked as part of a five-person team to coordinate loads, which put the company as the number one carrier for some load brokers
             - Built a trailer tracking program for the office and the repair shop, which increased productivity by over 100%
@@ -72,7 +70,6 @@ experiences:
         time: 2012 - 2017
         company: Ruby Truck Line Inc
         details: |
-        dfdfdfddfddfdfd
             - Ranked top driver for miles driven per year for many years
             - Ranked employee of the month for exceptional customer service
 
