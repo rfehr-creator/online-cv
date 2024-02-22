@@ -64,17 +64,8 @@ experiences:
         time: 2023 Summer
         company: THR
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-          enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-          error sit voluptatem accusantium doloremque laudantium, totam rem
-          aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-          architecto beatae vitae dicta sunt explicabo.
-            - Bullet point
-            - Bullet point
+            - Implemented a sorting system for sorting incoming pdf documents in Node.js
+            - Worked on the frontend using Typescript and Semantic UI 
       - role: Dispatcher/Planner
         time: 2017 - 2020
         company: Ruby Truck Line Inc
