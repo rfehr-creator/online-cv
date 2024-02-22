@@ -77,11 +77,11 @@ certifications:
 projects:
     title: Projects
     intro: >
-      Side projects I've done during summer months while in University.
+      Side projects I've done during summer months while in University
     assignments:
       - title: Trailer Tracking Program
         # link: "#hook"
-        tagline: "A desktop program to track where trailers are and where they will be." 
+        tagline: "A desktop program to track where trailers are and where they will be" 
 
       - title: Logbook Meal Counter
         # link: "#"
