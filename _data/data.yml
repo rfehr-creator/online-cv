@@ -18,11 +18,11 @@ sidebar:
     citizenship: Canada
     github: rfehr-creator
 
-    languages:
-      title: Languages
-      info:
-        - idiom: English
-          level: Professional
+    # languages:
+    #   title: Languages
+    #   info:
+    #     - idiom: English
+    #       level: Professional
 
     interests:
       title: Interests
